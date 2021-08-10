@@ -16,6 +16,7 @@ function MovieList(props) {
             ))}
         </ul>
     );
-};
+}
+
 
 export default MovieList;
